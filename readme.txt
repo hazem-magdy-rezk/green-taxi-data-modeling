@@ -21,7 +21,7 @@ for data analysis team so they can use it to predict trip durations crowded zone
 Project Data : 
 
 The Project full data is divided into 2 Datasets:
-1- 2020 Green Taxi Trip Data
+1- 2020 Green Taxi Trip Data (i provided a sample in the project but i worked with full data )
 The records are generated from the trip record submissions made by green taxi Technology Service Providers (TSPs). 
 Each row represents a single trip in a green taxi in 2020. 
 The trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, 
